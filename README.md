@@ -1,3 +1,9 @@
+# react1
+A simple view to connect with the REST API using React.js
+
+run *npm install* to install dependencies
+and then *npm start* to run the react view engine server
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
